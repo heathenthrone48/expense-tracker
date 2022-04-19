@@ -10,7 +10,8 @@ const DUMMY_EXPENSES = [
 
 const App = () => {
   
-  console.log("First commit of 19-04");
+  console.log("Second commit of 19-04");
+
   const [ expenses, setExpenses] = useState(DUMMY_EXPENSES);
 
   const addExpenseHandler = (expense) => {
