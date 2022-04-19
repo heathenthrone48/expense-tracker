@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "928aa5adfe02574b76cc",
-    "url": "/expense-tracker/static/css/main.13d8b0e5.chunk.css"
+    "revision": "377defdc1dd6f1b02291",
+    "url": "/expense-tracker/static/css/main.2e29c8c0.chunk.css"
   },
   {
-    "revision": "928aa5adfe02574b76cc",
-    "url": "/expense-tracker/static/js/main.928aa5ad.chunk.js"
+    "revision": "377defdc1dd6f1b02291",
+    "url": "/expense-tracker/static/js/main.377defdc.chunk.js"
   },
   {
     "revision": "f71a4d243061bb81d938",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/expense-tracker/static/js/runtime~main.2c594b5b.js"
   },
   {
-    "revision": "8bfd939db52a1bd8205c3bb80c230d71",
+    "revision": "853ab8eb3923d36f8b9435f41a2a2821",
     "url": "/expense-tracker/index.html"
   }
 ];
